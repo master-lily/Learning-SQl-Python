@@ -5,6 +5,8 @@
 
 ![intro_sql_1](https://user-images.githubusercontent.com/9611160/53128879-95f44880-356e-11e9-9588-8c09491837d4.png)
 
+![intro_sql_2](https://user-images.githubusercontent.com/9611160/53129125-6265ee00-356f-11e9-9d4c-3250a6be12bb.png)
+
 <p> 2. Joining Data in SQL on www.datacamp.com</p>
 
 ![joining_data_sql_1](https://user-images.githubusercontent.com/9611160/53127745-ee761680-356b-11e9-8cb6-98a2c88f0d52.png)
