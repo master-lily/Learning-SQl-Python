@@ -14,3 +14,5 @@
 
 <p> 3. Intermediate SQL on https://www.datacamp.com/courses/intermediate-sql</p>
 
+![intermediate_sql_1](https://user-images.githubusercontent.com/9611160/53533508-d5d5a580-3b03-11e9-9e47-0683779506c6.png)
+
