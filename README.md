@@ -22,4 +22,6 @@
 ### <b>Completed  Python courses</b>
 <p>Introduction to Python on https://www.datacamp.com/courses/intro-to-python-for-data-science</p>
 
+![intro_python_1](https://user-images.githubusercontent.com/9611160/53769172-c5e30a80-3ee3-11e9-967d-472595b45524.png)
+
 
