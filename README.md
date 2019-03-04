@@ -1,5 +1,5 @@
 # Learning-SQl-Python
-### <b>Finished  SQL courses</b>
+### <b>Completed  SQL courses</b>
 <p>1. Intro to SQL for Data Science on https://www.datacamp.com/courses/intro-to-sql-for-data-science </p>
 
 ![intro_sql_1](https://user-images.githubusercontent.com/9611160/53128879-95f44880-356e-11e9-9588-8c09491837d4.png)
@@ -17,3 +17,9 @@
 ![intermediate_sql_1](https://user-images.githubusercontent.com/9611160/53533508-d5d5a580-3b03-11e9-9e47-0683779506c6.png)
 
 ![intermediate_sql_2](https://user-images.githubusercontent.com/9611160/53533557-0289bd00-3b04-11e9-8af9-061e2547a745.png)
+
+
+### <b>Completed  Python courses</b>
+<p>Introduction to Python on https://www.datacamp.com/courses/intro-to-python-for-data-science</p>
+
+
