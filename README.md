@@ -1,4 +1,16 @@
 # Learning-SQl-Python
+<ol> Completed SQL courses
+  <li> Intro to SQL for Data Science</li>
+  <li> Joining Data in SQL </li>
+  <li>Intermediate SQL </li>
+</ol>
+<ol>Completed Python courses
+  <li>Introduction to Python</li>
+  <li> Intermediate Python for Data Science - <b>in progress</b></li>
+  </ol>
+  
+  
+
 ### <b>Completed  SQL courses</b>
 <p>1. Intro to SQL for Data Science on https://www.datacamp.com/courses/intro-to-sql-for-data-science </p>
 
