@@ -1,4 +1,5 @@
 # Learning-SQl-Python
+
 <ol> Completed SQL courses
   <li> Intro to SQL for Data Science</li>
   <li> Joining Data in SQL </li>
@@ -8,6 +9,7 @@
   <li>Introduction to Python</li>
   <li> Intermediate Python for Data Science - <b>in progress</b></li>
   </ol>
+  
   
   
 
