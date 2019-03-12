@@ -8,6 +8,7 @@
 <ol>Completed Python courses
   <li>Introduction to Python</li>
   <li> Intermediate Python for Data Science </li>
+  <li> Pandas Foundation - <b> in progress </b> </li>
   </ol>
   
   
@@ -43,3 +44,8 @@
 <p>2. Intermediate Python for Data Science on https://www.datacamp.com/courses/intermediate-python-for-data-science </p>
 
 
+![intermediate_python_for_data_science_1](https://user-images.githubusercontent.com/9611160/54204210-6cc73800-44dc-11e9-9bbb-a300c3cc8294.png)
+
+![intermediate_python_for_data_science_2](https://user-images.githubusercontent.com/9611160/54204211-6cc73800-44dc-11e9-8876-9c2e26f8850a.png)
+
+![intermediate_python_for_data_science_3](https://user-images.githubusercontent.com/9611160/54204212-6cc73800-44dc-11e9-8a05-2d8e1aee3594.png)
