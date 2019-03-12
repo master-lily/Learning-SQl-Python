@@ -7,7 +7,7 @@
 </ol>
 <ol>Completed Python courses
   <li>Introduction to Python</li>
-  <li> Intermediate Python for Data Science - <b>in progress</b></li>
+  <li> Intermediate Python for Data Science </li>
   </ol>
   
   
@@ -39,3 +39,7 @@
 ![intro_python_1](https://user-images.githubusercontent.com/9611160/53769172-c5e30a80-3ee3-11e9-967d-472595b45524.png)
 
 ![intro_python_2](https://user-images.githubusercontent.com/9611160/53769228-f75bd600-3ee3-11e9-8964-3cb46fef02bc.png)
+
+<p>2. Intermediate Python for Data Science on https://www.datacamp.com/courses/intermediate-python-for-data-science </p>
+
+
