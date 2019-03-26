@@ -8,6 +8,8 @@
 <ol>Completed Python courses
   <li>Introduction to Python</li>
   <li> Intermediate Python for Data Science </li>
+  <li> Python Data Science Toolbox (Part1) <li>
+  <li> Python Data Science Toolbox (Part2) - <b> in progress </b> <li>
   <li> Pandas Foundation - <b> in progress </b> </li>
   </ol>
   
@@ -49,3 +51,7 @@
 ![intermediate_python_for_data_science_2](https://user-images.githubusercontent.com/9611160/54204211-6cc73800-44dc-11e9-8876-9c2e26f8850a.png)
 
 ![intermediate_python_for_data_science_3](https://user-images.githubusercontent.com/9611160/54204212-6cc73800-44dc-11e9-8a05-2d8e1aee3594.png)
+
+<p> Python Data Science Toolbox (Part1) </p>
+
+
