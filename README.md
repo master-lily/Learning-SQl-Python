@@ -52,7 +52,7 @@
 
 ![intermediate_python_for_data_science_3](https://user-images.githubusercontent.com/9611160/54204212-6cc73800-44dc-11e9-8a05-2d8e1aee3594.png)
 
-<p> Python Data Science Toolbox (Part1) </p>
+<p> 3. Python Data Science Toolbox (Part1) on https://www.datacamp.com/courses/python-data-science-toolbox-part-1  </p>
 
 ![python_data_science_toolbos1_1](https://user-images.githubusercontent.com/9611160/54999921-02cd8900-4fda-11e9-858f-8277ead1a659.png)
 
