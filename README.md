@@ -11,6 +11,8 @@
   <li> Python Data Science Toolbox (Part1) </li>
   <li> Python Data Science Toolbox (Part2) </li>
   <li>Importing Data in Python (Part 1) </li>
+  <li> Importing Data in Python (Part 2) </li>
+
   <li> Pandas Foundation - <b> in progress </b> </li>
   </ol>
   
@@ -66,4 +68,11 @@
 ![Python_datascience_toolbox2_2](https://user-images.githubusercontent.com/9611160/56607748-eee56900-6611-11e9-8a89-b677e0e0558b.png)
 
 <p> 5. Importing Data in Python (Part 1) on https://www.datacamp.com/courses/importing-data-in-python-part-1 </p>
+
+![importing_data_in_python1_1](https://user-images.githubusercontent.com/9611160/56608588-c9f1f580-6613-11e9-869e-910e8e9c47c0.png)
+
+![importing_data_in_python1_2](https://user-images.githubusercontent.com/9611160/56608589-c9f1f580-6613-11e9-9c9d-a9106eb8c38f.png)
+
+<p> 6. Importing Data in Python (Part 2) on https://www.datacamp.com/courses/importing-data-in-python-part-2 </p>
+
 
