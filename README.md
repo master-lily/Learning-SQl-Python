@@ -9,7 +9,7 @@
   <li>Introduction to Python</li>
   <li> Intermediate Python for Data Science </li>
   <li> Python Data Science Toolbox (Part1) </li>
-  <li> Python Data Science Toolbox (Part2) - <b> in progress </b> </li>
+  <li> Python Data Science Toolbox (Part2) </li>
   <li> Pandas Foundation - <b> in progress </b> </li>
   </ol>
   
@@ -57,3 +57,7 @@
 ![python_data_science_toolbos1_1](https://user-images.githubusercontent.com/9611160/54999921-02cd8900-4fda-11e9-858f-8277ead1a659.png)
 
 ![python_data_science_toolbos1_2](https://user-images.githubusercontent.com/9611160/54999923-03661f80-4fda-11e9-9a9e-6fa70e9b8912.png)
+
+<p> 4. Python Data Science Toolbox (Part2) on https://www.datacamp.com/courses/python-data-science-toolbox-part-2</p>
+
+
