@@ -15,6 +15,7 @@
   <li> Cleaning Data in Python </li>
   <li> Pandas Foundations </li>
   <li> Manipulating DataFrames with pandas </li>
+  <li>Merging DataFrames with pandas</li>
   </ol>
   
   
@@ -95,5 +96,14 @@
 ![pandas_foundations_2](https://user-images.githubusercontent.com/9611160/56610766-e5abca80-6618-11e9-9535-7f06ead5ab90.png)
 
 <p> 9. Manipulating DataFrames with pandas on https://www.datacamp.com/courses/manipulating-dataframes-with-pandas </p>
+
+![manipulating_dataframes_with_panfas_1](https://user-images.githubusercontent.com/9611160/56611564-bf872a00-661a-11e9-8251-ec2024902fbe.png)
+
+![manipulating_dataframes_with_panfas_2](https://user-images.githubusercontent.com/9611160/56611565-c01fc080-661a-11e9-84a4-a5650350baab.png)
+
+![manipulating_dataframes_with_panfas_3](https://user-images.githubusercontent.com/9611160/56611566-c01fc080-661a-11e9-9ad5-04585ac6ac71.png)
+
+<p> 10. Merging DataFrames with pandas on https://www.datacamp.com/courses/merging-dataframes-with-pandas </p>
+
 
 
