@@ -10,12 +10,13 @@
   <li> Intermediate Python for Data Science </li>
   <li> Python Data Science Toolbox (Part1) </li>
   <li> Python Data Science Toolbox (Part2) </li>
-  <li>Importing Data in Python (Part 1) </li>
+  <li> Importing Data in Python (Part 1) </li>
   <li> Importing Data in Python (Part 2) </li>
   <li> Cleaning Data in Python </li>
   <li> Pandas Foundations </li>
   <li> Manipulating DataFrames with pandas </li>
-  <li>Merging DataFrames with pandas</li>
+  <li> Merging DataFrames with pandas</li>
+  <li> Introduction to Databases in Python </li>
   </ol>
   
   
@@ -104,6 +105,14 @@
 ![manipulating_dataframes_with_panfas_3](https://user-images.githubusercontent.com/9611160/56611566-c01fc080-661a-11e9-9ad5-04585ac6ac71.png)
 
 <p> 10. Merging DataFrames with pandas on https://www.datacamp.com/courses/merging-dataframes-with-pandas </p>
+
+![merging_dataframes_with_pandas_1](https://user-images.githubusercontent.com/9611160/56612782-dd09c300-661d-11e9-949c-cb222dfb2075.png)
+
+![merging_dataframes_with_pandas_2](https://user-images.githubusercontent.com/9611160/56612783-dda25980-661d-11e9-94ad-35092cc5f134.png)
+
+<p> 11. Introduction to Databases in Python on https://www.datacamp.com/courses/introduction-to-relational-databases-in-python </p>
+
+
 
 
 
