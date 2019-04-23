@@ -13,8 +13,7 @@
   <li>Importing Data in Python (Part 1) </li>
   <li> Importing Data in Python (Part 2) </li>
   <li> Cleaning Data in Python </li>
-
-  <li> Pandas Foundation - <b> in progress </b> </li>
+  <li> Pandas Foundations </li>
   </ol>
   
   
@@ -82,4 +81,11 @@
 
 <p> 7. Cleaning Data in Python on https://www.datacamp.com/courses/cleaning-data-in-python </p>
 
+![cleaning_data_in_python](https://user-images.githubusercontent.com/9611160/56610233-a466eb00-6617-11e9-8839-9d4f16363d81.png)
+
+![cleaning_data_in_python_2](https://user-images.githubusercontent.com/9611160/56610235-a466eb00-6617-11e9-812f-25eef3cd1bef.png)
+
+![cleaning_data_in_python_3](https://user-images.githubusercontent.com/9611160/56610237-a466eb00-6617-11e9-92f3-8d23425642ed.png)
+
+<p> 8. Pandas Foundations on https://www.datacamp.com/courses/pandas-foundations </p>
 
