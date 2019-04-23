@@ -14,6 +14,7 @@
   <li> Importing Data in Python (Part 2) </li>
   <li> Cleaning Data in Python </li>
   <li> Pandas Foundations </li>
+  <li> Manipulating DataFrames with pandas </li>
   </ol>
   
   
@@ -88,4 +89,11 @@
 ![cleaning_data_in_python_3](https://user-images.githubusercontent.com/9611160/56610237-a466eb00-6617-11e9-92f3-8d23425642ed.png)
 
 <p> 8. Pandas Foundations on https://www.datacamp.com/courses/pandas-foundations </p>
+
+![pandas_foundations_1](https://user-images.githubusercontent.com/9611160/56610765-e5133400-6618-11e9-9454-91871758c78a.png)
+
+![pandas_foundations_2](https://user-images.githubusercontent.com/9611160/56610766-e5abca80-6618-11e9-9535-7f06ead5ab90.png)
+
+<p> 9. Manipulating DataFrames with pandas on https://www.datacamp.com/courses/manipulating-dataframes-with-pandas </p>
+
 
