@@ -17,6 +17,7 @@
   <li> Manipulating DataFrames with pandas </li>
   <li> Merging DataFrames with pandas</li>
   <li> Introduction to Databases in Python </li>
+  <li> Introduction to Data Visualization with Python </li>
   </ol>
   
   
@@ -112,6 +113,11 @@
 
 <p> 11. Introduction to Databases in Python on https://www.datacamp.com/courses/introduction-to-relational-databases-in-python </p>
 
+![introduction_to_databases_in_python_1](https://user-images.githubusercontent.com/9611160/56615666-37a61d80-6624-11e9-945a-d7a2f1b1d874.png)
+
+![introduction_to_databases_in_python_2](https://user-images.githubusercontent.com/9611160/56615667-37a61d80-6624-11e9-897e-acf5d9bcc7dd.png)
+
+<p> 12. Introduction to Data Visualization with Python on https://www.datacamp.com/courses/introduction-to-data-visualization-with-python </p>
 
 
 
