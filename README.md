@@ -126,7 +126,9 @@
 
 <p> 13. Statistical Thinking in Python (Part 1) </p>
 
+![statistical_thinking_in_python1_1](https://user-images.githubusercontent.com/9611160/56616963-5659e380-6627-11e9-8307-b935038f0b26.png)
 
+![statistical_thinking_in_python1_2](https://user-images.githubusercontent.com/9611160/56616965-5659e380-6627-11e9-86ae-d8c99b755883.png)
 
 
 
