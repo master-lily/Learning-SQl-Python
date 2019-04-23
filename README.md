@@ -18,6 +18,7 @@
   <li> Merging DataFrames with pandas</li>
   <li> Introduction to Databases in Python </li>
   <li> Introduction to Data Visualization with Python </li>
+  <li> Statistical Thinking in Python (Part 1) </li>
   </ol>
   
   
@@ -118,6 +119,14 @@
 ![introduction_to_databases_in_python_2](https://user-images.githubusercontent.com/9611160/56615667-37a61d80-6624-11e9-897e-acf5d9bcc7dd.png)
 
 <p> 12. Introduction to Data Visualization with Python on https://www.datacamp.com/courses/introduction-to-data-visualization-with-python </p>
+
+![introduction_to_datavisualization_with_python_1](https://user-images.githubusercontent.com/9611160/56616329-cd8e7800-6625-11e9-8ecf-ee74401cc414.png)
+
+![introduction_to_datavisualization_with_python_2](https://user-images.githubusercontent.com/9611160/56616331-cd8e7800-6625-11e9-9fa2-c31397af0ebd.png)
+
+<p> 13. Statistical Thinking in Python (Part 1) </p>
+
+
 
 
 
